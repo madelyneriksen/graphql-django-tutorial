@@ -1,0 +1,7 @@
+.env
+.env.guest
+Vagrantfile
+.vagrant
+__pycache__
+*.log
+*.sqlite3
