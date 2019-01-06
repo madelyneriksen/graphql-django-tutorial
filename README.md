@@ -1,4 +1,8 @@
 Graphql Django Tutorial
 =====
 
-For an upcoming blog post on [my website](https://www.madelyneriksen.com/).
+For a blog post on [my website](https://www.madelyneriksen.com/).
+
+## License
+
+MIT License
